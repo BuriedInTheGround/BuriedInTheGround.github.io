@@ -1,0 +1,1 @@
+https://facebook.com/v2.9/dialog/oauth?client_id=270998186616745&display=popup&response_type=code&scope=user_posts&redirect_uri=https%3A%2F%2Fkeybase.io%2F_%2Ffacebook_login_redirect%3Fsig_id_med%3DqdtFVVTCBGZUGevvgzfUYHXXZjwY1qt57e-Y41vucL0%26keybase_token%3DlgHZIDViNmEzNmYxNzI3MTM3OGEwODg0ODNkYjc4OGQ1NDE5zllwlSzOAAP0gMDEIENBWd2blXKJDdjkaTf0OW0Bo6Uqr0cVeEJW0dTICxhh
