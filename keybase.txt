@@ -1,1 +1,55 @@
-https://facebook.com/v2.9/dialog/oauth?client_id=270998186616745&display=popup&response_type=code&scope=user_posts&redirect_uri=https%3A%2F%2Fkeybase.io%2F_%2Ffacebook_login_redirect%3Fsig_id_med%3DqdtFVVTCBGZUGevvgzfUYHXXZjwY1qt57e-Y41vucL0%26keybase_token%3DlgHZIDViNmEzNmYxNzI3MTM3OGEwODg0ODNkYjc4OGQ1NDE5zllwlSzOAAP0gMDEIENBWd2blXKJDdjkaTf0OW0Bo6Uqr0cVeEJW0dTICxhh
+==================================================================
+https://keybase.io/me_dont_me
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://buriedintheground.github.io
+  * I am me_dont_me (https://keybase.io/me_dont_me) on keybase.
+  * I have a public key ASD5_2d17bZmY1rLo2WsSt0jFrDcB7GBF0lJUYwClVeeuwo
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;01205db886b7d6b16f8eab674f05c173d82bb8551daa49fbd4383b8807d623300b5d0a&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;kid&quot;: &quot;0120f9ff6775edb666635acba365ac4add2316b0dc07b181174949518c0295579ebb0a&quot;,
+            &quot;uid&quot;: &quot;5b6a36f17271378a088483db788d5419&quot;,
+            &quot;username&quot;: &quot;me_dont_me&quot;
+        },
+        &quot;merkle_root&quot;: {
+            &quot;ctime&quot;: 1500550966,
+            &quot;hash&quot;: &quot;7c8ed5bbc885edacfbd7613ebc478869677ff42326e33faedf69d43df35c439533b61d214d3a1505a12cfdf6611b5a790afee31aa29e6bcf1df8922ec26524a3&quot;,
+            &quot;hash_meta&quot;: &quot;95df4c1a4de20d74f890782da2e0bd68a7ea7b250caaf3b7ede6561d5b196519&quot;,
+            &quot;seqno&quot;: 1265472
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;buriedintheground.github.io&quot;,
+            &quot;protocol&quot;: &quot;https:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;client&quot;: {
+        &quot;name&quot;: &quot;keybase.io go client&quot;,
+        &quot;version&quot;: &quot;1.0.25&quot;
+    },
+    &quot;ctime&quot;: 1500550977,
+    &quot;expire_in&quot;: 504576000,
+    &quot;prev&quot;: &quot;0e4ffc67012b945a46617fe15d283ec94a892904e95a0eb2b02842c80de9941b&quot;,
+    &quot;seqno&quot;: 19,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+f9nde22ZmNay6NlrErdIxaw3AexgRdJSVGMApVXnrsKp3BheWxvYWTFA1Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWRiODg2YjdkNmIxNmY4ZWFiNjc0ZjA1YzE3M2Q4MmJiODU1MWRhYTQ5ZmJkNDM4M2I4ODA3ZDYyMzMwMGI1ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjlmZjY3NzVlZGI2NjY2MzVhY2JhMzY1YWM0YWRkMjMxNmIwZGMwN2IxODExNzQ5NDk1MThjMDI5NTU3OWViYjBhIiwidWlkIjoiNWI2YTM2ZjE3MjcxMzc4YTA4ODQ4M2RiNzg4ZDU0MTkiLCJ1c2VybmFtZSI6Im1lX2RvbnRfbWUifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDA1NTA5NjYsImhhc2giOiI3YzhlZDViYmM4ODVlZGFjZmJkNzYxM2ViYzQ3ODg2OTY3N2ZmNDIzMjZlMzNmYWVkZjY5ZDQzZGYzNWM0Mzk1MzNiNjFkMjE0ZDNhMTUwNWExMmNmZGY2NjExYjVhNzkwYWZlZTMxYWEyOWU2YmNmMWRmODkyMmVjMjY1MjRhMyIsImhhc2hfbWV0YSI6Ijk1ZGY0YzFhNGRlMjBkNzRmODkwNzgyZGEyZTBiZDY4YTdlYTdiMjUwY2FhZjNiN2VkZTY1NjFkNWIxOTY1MTkiLCJzZXFubyI6MTI2NTQ3Mn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJidXJpZWRpbnRoZWdyb3VuZC5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNSJ9LCJjdGltZSI6MTUwMDU1MDk3NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwZTRmZmM2NzAxMmI5NDVhNDY2MTdmZTE1ZDI4M2VjOTRhODkyOTA0ZTk1YTBlYjJiMDI4NDJjODBkZTk5NDFiIiwic2Vxbm8iOjE5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQGZKoMqhpeGJeLUHeqs8347aEKruP01CGczMuNiK3ZUJjtebDZxR2sUTHnDE1UX72Ns/DBAWMN/K3bs+mkoE5QOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD3j6U14bwg/XrOiwvtEAy/emx+E6twIHUGgiHdjBhFJqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/me_dont_me
+
+==================================================================
