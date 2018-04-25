@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.drag-target {
+    background-color: #fff0;
+}
+
+.flow-text {
+    font-size: 1.2rem;
+}
