@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,0CAA+C,CAC/C,aAAyB,CACzB,kBACJ","file":"main.2a0a2d10.chunk.css","sourcesContent":["body {\r\n    font: 16px \"Century Gothic\", Futura, sans-serif;\r\n    color: rgb(224, 224, 224);\r\n    background: rgb(42, 42, 42);\r\n}\r\n"]}
